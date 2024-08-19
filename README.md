@@ -33,5 +33,5 @@
 ![C#](https://img.shields.io/badge/C%23-321435?style=for-the-badge&logo=c-sharp&logoColor=darkgreen)&nbsp;
  
 <p align="centre"><b>Visitors Count</b></p> 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGustavoSobrera20&s=50&c=670B71&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%ictor226&s=50&c=670B71&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
