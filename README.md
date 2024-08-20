@@ -9,6 +9,7 @@
 
 ## Conhecimentos:
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
+<img align="right" height="110" alt="coding-time" src="https://media.tenor.com/mcpNuaDanYwAAAAj/duck-ducky.gif">
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 
 ## Ferramentas:
@@ -34,3 +35,8 @@
 <p align="centre"><b>Visitors Count</b></p> 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%ictor226&s=50&c=670B71&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
+
+## Status:
+<div align="center">
+     <img height="150" src="https://github-readme-stats.vercel.app/api?username=ictor226&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ictor226&layout=compact&langs_count=7&theme=synthwave" alt="Top Languages"/></div>
