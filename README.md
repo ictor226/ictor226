@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=670B71&height=120&section-header"/>
  
 <div align="center"
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Proggy+Fonts&weight=200&size=23&pause=1000&color=670B71&center=true&vCenter=true&width=500&lines=HELLO+my+name+is+victor+huggo;i'am+17+years+old;And+i'am+From+brazil" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Proggy+Fonts&weight=200&size=23&pause=1000&color=670B71&center=true&vCenter=true&width=500&lines=Prazer+meu+nome+é+Victor+Huggo;eu+tenho+17+anos" alt="Typing SVG" /></a></div>
  
  
 ***
@@ -27,9 +27,12 @@
 ![CSS](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-321435?style=for-the-badge&logo=c-sharp&logoColor=darkgreen)&nbsp;
  
-<br>
-
 ## Status:
 <div align="center">
      <img height="150" src="https://github-readme-stats.vercel.app/api?username=ictor226&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ictor226&layout=compact&langs_count=7&theme=synthwave" alt="Top Languages"/></div>
+
+## Redes sociais:
+
+
+
