@@ -9,7 +9,6 @@
 
 ## Conhecimentos:
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
-
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 
 ## Ferramentas:
@@ -23,17 +22,11 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-321435?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-321435?style=for-the-badge&logo=visual-studio&logoColor=1E90FF&labelColor=0D1117)&nbsp;
  
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoSobrera20/GustavoSobrera20/output/github-contribution-grid-snake.svg"> </picture>
- 
- 
 ## Estudando no Momento:
  
 ![CSS](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-321435?style=for-the-badge&logo=c-sharp&logoColor=darkgreen)&nbsp;
  
-<p align="centre"><b>Visitors Count</b></p> 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%ictor226&s=50&c=670B71&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 
 ## Status:
