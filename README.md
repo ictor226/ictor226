@@ -32,7 +32,5 @@
      <img height="150" src="https://github-readme-stats.vercel.app/api?username=ictor226&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ictor226&layout=compact&langs_count=7&theme=synthwave" alt="Top Languages"/></div>
 
-## Redes sociais:
-
 
 
