@@ -10,7 +10,7 @@
 ## Conhecimentos:
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
-
+![CSS](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
 ## Ferramentas:
  
 ![GITHUB](https://img.shields.io/badge/GITHUB-321435?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -24,9 +24,9 @@
  
 ## Estudando no Momento:
  
-![CSS](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
+
 ![C#](https://img.shields.io/badge/C%23-321435?style=for-the-badge&logo=c-sharp&logoColor=darkgreen)&nbsp;
- 
+
 ## Status:
 <div align="center">
      <img height="150" src="https://github-readme-stats.vercel.app/api?username=ictor226&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
