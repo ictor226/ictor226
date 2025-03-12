@@ -5,7 +5,7 @@
  
  
 ***
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ictor226&bg_color=000000&color=670B71&line=3D0843&point=fff&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ictor226&bg_color=000000&color=670B71&line=3D0843&point=fff&area=true&hide_border=true)
 
 ## Conhecimentos:
  <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,mysql" alt="HTML, CSS, JavaScript, C#, MySQL " />
