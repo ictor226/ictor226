@@ -8,26 +8,17 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ictor226&bg_color=000000&color=670B71&line=3D0843&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Conhecimentos:
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-321435?style=for-the-badge&logo=JAVASCRIPT&logoColor=YELLOW)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-321435?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-321435?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
-![MYSQL](https://img.shields.io/badge/MYSQL-321435?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,cs,mysql" alt="HTML, CSS, JavaScript, C#, MySQL " />
+    
+      
+      
 ## Ferramentas:
  
-![GITHUB](https://img.shields.io/badge/GITHUB-321435?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-321435?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)&nbsp;
-![CANVA](https://img.shields.io/badge/CANVA-321435.svg?&style=for-the-badge&logo=Canva&logoColor=cyan)&nbsp;
-![FIGMA](https://img.shields.io/badge/FIGMA-321435?style=for-the-badge&logo=figma&logoColor=orange)&nbsp;
-![ARDUINO](https://img.shields.io/badge/ARDUINO-321435?style=for-the-badge&logo=arduino&logoColor=green)&nbsp;
-![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-321435?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;
-![OPERA_GX](https://img.shields.io/badge/OPERA_GX-321435?style=for-the-badge&logo=Opera&logoColor=red)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-321435?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-321435?style=for-the-badge&logo=visual-studio&logoColor=1E90FF&labelColor=0D1117)&nbsp;
+ <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,github,git,bootstrap,arduino" alt=", VS Code, Figma, GitHub, Git, Bootstrap, Arduino" />
  
 ## Estudando no Momento:
  
-![PHP](https://img.shields.io/badge/PHP-321435?style=for-the-badge&logo=php&logoColor=9a77e6)&nbsp;
-![C#](https://img.shields.io/badge/C%23-321435?style=for-the-badge&logo=c-sharp&logoColor=darkgreen)&nbsp;
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" />
 
 ## Status:
 <div align="center">
