@@ -20,10 +20,13 @@
  
 <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
 
+<div align="end">
+  <a href="https://www.linkedin.com/in/victor-huggo-2993a4280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 ## Status:
 <div align="center">
      <img height="150" src="https://github-readme-stats.vercel.app/api?username=ictor226&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ictor226&layout=compact&langs_count=7&theme=synthwave" alt="Top Languages"/></div>
-
 
 
