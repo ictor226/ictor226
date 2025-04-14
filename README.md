@@ -29,6 +29,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql" alt="HTML, CSS, JavaScript, MySQL" />
+
 </div>
 
 <br>
@@ -37,6 +38,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,github,git,bootstrap,arduino" alt="VS Code, Visual Studio, Figma, GitHub, Git, Bootstrap, Arduino" />
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+
 </div>
 
 <br>
