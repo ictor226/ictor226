@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Proggy+Fonts&weight=200&size=23&pause=1000&color=670B71&center=true&vCenter=true&width=500&lines=Prazer+meu+nome+é+Victor+Huggo;eu+tenho+18+anos" alt="Typing SVG" />
   </a>
 </div>
-
 <br><br>
 
 <!-- GRAFICO DE ATIVIDADE -->
