@@ -19,7 +19,7 @@
 🧠 Sobre mim
 
 - 🎓 Estudante Técnico em Informática no Senac Americana  
-- 📚 Estudando PHP, C#, Banco de Dados e Front-end  
+- 📚 Estudando PHP, C#, Banco de Dados e Back-end  
 - 🎯 Foco em evoluir como desenvolvedor fullstack  
 
 <br>
