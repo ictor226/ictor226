@@ -18,9 +18,9 @@
 <br>
 🧠 Sobre mim
 
-- 🎓 Estudante Técnico em Informática no Senac Americana  
-- 📚 Estudando PHP, C#, Banco de Dados e Back-end  
-- 🎯 Foco em evoluir como desenvolvedor fullstack  
+🎓 Sou estudante do curso Técnico em Informática no Senac Americana, onde venho adquirindo conhecimentos sólidos na área de tecnologia.
+📚 Atualmente, estou focado nos estudos de PHP, C#, Banco de Dados e desenvolvimento Back-end, buscando sempre aprimorar minhas habilidades técnicas.
+🎯 Meu principal objetivo é evoluir continuamente como desenvolvedor fullstack, unindo teoria e prática para construir soluções eficientes e modernas.
 
 <br>
 
