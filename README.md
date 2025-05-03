@@ -7,7 +7,6 @@
   </a>
 </div>
 <br><br>
-
 <!-- GRAFICO DE ATIVIDADE -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ictor226&bg_color=000000&color=670B71&line=3D0843&point=fff&area=true&hide_border=true"/>
