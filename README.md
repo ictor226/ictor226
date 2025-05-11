@@ -11,7 +11,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ictor226&bg_color=000000&color=670B71&line=3D0843&point=fff&area=true&hide_border=true"/>
 </div>
-
 <br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <br>
