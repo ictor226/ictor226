@@ -16,7 +16,6 @@
 <br>
 <p>🧠 Sobre mim</p>
 
-
 <p>🎓 Sou estudante do curso Técnico em Informática no Senac Americana, onde venho adquirindo conhecimentos sólidos na área de tecnologia.</p>
 
 <p>📚 Atualmente, estou focado nos estudos de PHP, C#, Banco de Dados e desenvolvimento Back-end, buscando sempre aprimorar minhas habilidades técnicas.</p>
