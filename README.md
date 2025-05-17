@@ -26,6 +26,7 @@
 ## 🚀 Tecnologias
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql" alt="HTML, CSS, JavaScript, MySQL" />
 
 </div>
@@ -45,7 +46,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
- <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
 </div>
 
 <br>
