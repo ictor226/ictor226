@@ -39,7 +39,6 @@
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
 
 </div>
-
 <br>
 
 ## 📘 Atualmente estudando
