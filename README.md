@@ -1,6 +1,6 @@
-<!-- TOPO ANIMADO -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=670B71&height=120&section=header"/>
-<!-- TEXTO DIGITANDO -->
+
 <div align="center">
   <a href="">
     <img src="https://readme-typing-svg.herokuapp.com?font=Proggy+Fonts&weight=200&size=23&pause=1000&color=670B71&center=true&vCenter=true&width=500&lines=Prazer+meu+nome+é+Victor+Huggo;eu+tenho+18+anos" alt="Typing SVG" />
