@@ -51,9 +51,6 @@
   <img src="https://streak-stats.demolab.com?user=ictor226&locale=pt-br&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="Streak Stats" />
 </div>
 
-
-
-
 <br>
 
 <div align="center">
