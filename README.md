@@ -17,7 +17,7 @@
 
 <p>📚 Atualmente, estou focado nos estudos de PHP, C#, Banco de Dados e desenvolvimento Back-end, buscando sempre aprimorar minhas habilidades técnicas.</p>
 
-<p>🎯 Meu principal objetivo é evoluir continuamente como desenvolvedor fullstack, unindo teoria e prática para construir soluções eficientes e modernas.</p>
+<p>🎯 Meu principal objetivo é evoluir continuamente como desenvolvedor Back-end, unindo teoria e prática para construir soluções eficientes e modernas.</p>
 <br>
 
 ## 🚀 Tecnologias
