@@ -23,8 +23,8 @@
 ## 🚀 Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,dotnet" alt="HTML, CSS, JavaScript, MySQL" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,php" alt="HTML, CSS, JavaScript, MySQL" />
 
 </div>
 
@@ -41,8 +41,7 @@
 ## 📘 Atualmente estudando
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+     <img src="https://skillicons.dev/icons?i=docker,aws" alt="Docker" />
 </div>
 
 ## 📈 GitHub Stats
