@@ -25,7 +25,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C#" />
   <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,php" alt="HTML, CSS, JavaScript, MySQL" />
-
 </div>
 
 ## 🧰 Ferramentas
