@@ -35,7 +35,6 @@
 
 </div>
 <br>
-
 ## 📘 Atualmente estudando
 
 <div align="center">
