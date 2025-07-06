@@ -60,10 +60,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ictor226&theme=onestar&no-frame=true&column=3&row=2" width="38%" alt="@ictor226's trophy stats"/>
   </a>
 </p>
-
-
-
-
-
-
-
