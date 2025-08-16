@@ -53,7 +53,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ictor226&layout=compact&langs_count=7&bg_color=000000&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6" alt="Top Languages"/>
 </div>
 
-
 <br>
 
 <p align="center">
