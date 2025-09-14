@@ -13,12 +13,9 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <br>
 <p>🧠 Sobre mim</p>
-<p>🎓 Sou estudante do curso Técnico em Informática no Senac Americana, onde venho adquirindo conhecimentos sólidos na área de tecnologia.</p>
-
-<p>📚 Atualmente, estou focado nos estudos de PHP, C#, Banco de Dados e desenvolvimento Back-end, buscando sempre aprimorar minhas habilidades técnicas.</p>
-
+<p>🎓 Concluí o curso Técnico em Informática no Senac Americana, onde adquiri conhecimentos sólidos na área de tecnologia.</p>
+<p>📚 Atualmente, estou cursando a graduação em Ciência da Computação e focado nos estudos de PHP, C#, Banco de Dados e desenvolvimento Back-end, buscando sempre aprimorar minhas habilidades técnicas.</p>
 <p>🎯 Meu principal objetivo é evoluir continuamente como desenvolvedor Back-end, unindo teoria e prática para construir soluções eficientes e modernas.</p>
-<br>
 
 ## 🚀 Tecnologias
 <div align="center">
