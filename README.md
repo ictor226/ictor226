@@ -1,5 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=670B71&height=120&section=header"/>
 
+
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Proggy+Fonts&weight=200&size=23&pause=1000&color=670B71&center=true&vCenter=true&width=700&lines=Prazer,+meu+nome+é+Victor+Huggo;Técnico+em+Tecnologia+da+Informação;Estudante+de+Ciência+da+Computação;Foco+em+Back-end+e+Infraestrutura+de+TI" />
 </div>
