@@ -9,6 +9,7 @@
 
 
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=670B71&height=120&section=header"/>
 
 <div align="center">
@@ -85,6 +86,9 @@ Sou **Técnico em Tecnologia da Informação**, com experiência prática em **s
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ictor226&layout=compact&langs_count=7&bg_color=000000&title_color=670B71&text_color=ffffff"
   />
 </div>
+
+
+
 
 <br>
 
