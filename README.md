@@ -73,25 +73,22 @@ Sou **Técnico em Tecnologia da Informação**, com experiência prática em **s
 <br>
 
 ## 📈 GitHub Stats
-
 <div align="center">
+
+
+<p>
   <img 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=ictor226&show_icons=true&count_private=true&bg_color=000000&title_color=670B71&text_color=ffffff&icon_color=670B71"
+    src="https://streak-stats.demolab.com?user=ictor226&theme=dark&hide_border=false" 
+    alt="GitHub Streak Stats" 
   />
-  <img 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ictor226&layout=compact&langs_count=7&bg_color=000000&title_color=670B71&text_color=ffffff"
-  />
+</p>
+  
+ <img src="https://github-profile-trophy.vercel.app/?username=ictor226&theme=onestar&no-bg=true&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+
 </div>
 
 
-
-
 <br>
-
-
-
 
 ## 📫 Contato
 
