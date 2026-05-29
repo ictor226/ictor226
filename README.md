@@ -44,19 +44,19 @@ Atuei em ambientes corporativos com suporte ao usuário, manutenção de infraes
 
 ## 🛠️ `$ ls ./arsenal/`
 
-### ⚔️ Linguagens & Frameworks
+###  Linguagens & Frameworks
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,php,mysql,html,css,javascript&theme=dark" />
 </div>
 
-### 🖥️ Ferramentas & Ambientes
+###  Ferramentas & Ambientes
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,bootstrap,figma,wordpress,arduino&theme=dark" />
 </div>
 
-### 📡 Estudando agora
+###  Estudando agora
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,linux&theme=dark" />
