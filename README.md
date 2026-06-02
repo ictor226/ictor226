@@ -92,10 +92,6 @@ Atuei em ambientes corporativos com suporte ao usuário, manutenção de infraes
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ictor226&theme=radical&no-bg=true&margin-w=8&margin-h=8&column=6" height="150" alt="trophy graph" />
-</div>
-
 ---
 
 ## 📡 `$ ping ./contato`
