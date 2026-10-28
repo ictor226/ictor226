@@ -50,8 +50,8 @@ Busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos 
 
 **Estudando agora**
 
-<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" />
 
+<img src="https://skillicons.dev/icons?i=docker,aws,kafka&theme=dark" />
 </div>
 
 
