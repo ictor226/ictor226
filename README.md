@@ -1,19 +1,8 @@
-
-
-
-
-
-
-
-
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b2300&height=170&section=header&text=Victor%20Huggo&fontSize=44&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Back-end%20%7C%20C%23%20%7C%20.NET%20%7C%20APIs%20REST&descAlignY=60&descSize=16&descColor=c9d1d9"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=720&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;C%23+%C2%B7+.NET+%C2%B7+APIs+REST+%C2%B7+SQL;Analista+de+TI+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Gotham+n%C3%A3o+dorme.+Eu+compilo." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=720&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;C%23+%C2%B7+.NET+%C2%B7+APIs+REST+%C2%B7+SQL;Kafka+%C2%B7+Flink+%C2%B7+CDC+%C2%B7+Dados+em+tempo+real;Analista+de+TI+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Gotham+n%C3%A3o+dorme.+Eu+compilo." alt="Typing SVG" />
 </div>
-
 <br/>
 
 <div align="center">
@@ -37,11 +26,11 @@ Minha experiência profissional em ambientes corporativos me proporcionou uma vi
 
 Busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos em arquitetura de software, boas práticas de programação, APIs e bancos de dados. Quero transformar essa evolução em soluções eficientes, seguras e de fácil manutenção.
 
- **Objetivo profissional:** conquistar uma oportunidade como **Desenvolvedor Back-end Júnior C#/.NET ou Estagiário em Desenvolvimento de Software**, contribuindo com a equipe, adquirindo experiência em projetos reais e crescendo profissionalmente na área de desenvolvimento.
+**Objetivo profissional:** conquistar uma oportunidade como **Desenvolvedor Back-end Júnior C#/.NET ou Estagiário em Desenvolvimento de Software**, contribuindo com a equipe, adquirindo experiência em projetos reais e crescendo profissionalmente na área de desenvolvimento.
 
 ---
 
-##  Stack
+## Stack
 
 <div align="center">
 
@@ -59,15 +48,15 @@ Busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos 
 
 **Estudando agora**
 
-
-<img src="https://skillicons.dev/icons?i=docker,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,postgres&theme=dark" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluent-0d1117?style=for-the-badge&logo=confluent&logoColor=FFD700" />
 </div>
-
 
 ---
 
-##  Estatísticas
+## Estatísticas
 
 <div align="center">
 
@@ -82,7 +71,16 @@ Busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos 
 
 ---
 
-##  Projetos
+## Projetos
+
+### [pipeline-tempo-real](https://github.com/ictor226/pipeline-tempo-real) `Kafka` `Confluent Cloud` `Debezium` `Flink SQL` `Iceberg` `Avro`
+Pipeline de dados em tempo real, desenvolvido no bootcamp **IBM Confluent: Dados em tempo real para agentes de IA (DIO)**. Caso de uso de pagamentos: **Postgres (Neon) → CDC com Debezium → tópicos Avro + Schema Registry → Flink SQL → tabelas Apache Iceberg (Tableflow)**.
+- **Ingestão:** CDC com Kafka Connect + Debezium capturando INSERT, UPDATE e DELETE (`REPLICA IDENTITY FULL`), com a chave primária como chave Kafka para preservar a ordem
+- **Contrato de dados:** schemas Avro no Schema Registry com compatibilidade BACKWARD, testes de evolução e tags PII/PCI por campo
+- **Processamento:** Flink SQL com watermark, regra de fraude via `MATCH_RECOGNIZE` (3 transações do mesmo cartão em 60 s) e enriquecimento por join com contas
+- **Segurança e operação:** service accounts com menor privilégio e ACLs por prefixo, métricas pela Metrics API, análise de custo e `setup.sh`/`teardown.sh` para subir e derrubar tudo
+- **Lakehouse:** saída do Flink materializada em Iceberg e consultada com `pyiceberg`
+- A camada de IA (embeddings e agentes) ainda não foi implementada e está nos próximos passos
 
 ### [API_em_Csharp](https://github.com/ictor226/API_em_Csharp) `C#` `.NET 8`
 API RESTful completa com todas as operações **CRUD** (Create, Read, Update, Delete), desenvolvida com foco em boas práticas e organização do código.
@@ -97,6 +95,3 @@ Aplicação com cadastro de lanches, validação de dados e consulta ao banco My
 
 ### [calculadora](https://github.com/ictor226/calculadora) · [área de login](https://github.com/ictor226/-rea-de-login) `HTML` `CSS` `JavaScript`
 Projetos de front-end dos meus primeiros estudos em desenvolvimento web.
-
-
-
