@@ -80,7 +80,7 @@ Pipeline de dados em tempo real, desenvolvido no bootcamp **IBM Confluent: Dados
 - **Processamento:** Flink SQL com watermark, regra de fraude via `MATCH_RECOGNIZE` (3 transações do mesmo cartão em 60 s) e enriquecimento por join com contas
 - **Segurança e operação:** service accounts com menor privilégio e ACLs por prefixo, métricas pela Metrics API, análise de custo e `setup.sh`/`teardown.sh` para subir e derrubar tudo
 - **Lakehouse:** saída do Flink materializada em Iceberg e consultada com `pyiceberg`
-- A camada de IA (embeddings e agentes) ainda não foi implementada e está nos próximos passos
+- A camada de IA (embeddings e agentes) 
 
 ### [API_em_Csharp](https://github.com/ictor226/API_em_Csharp) `C#` `.NET 8`
 API RESTful completa com todas as operações **CRUD** (Create, Read, Update, Delete), desenvolvida com foco em boas práticas e organização do código.
