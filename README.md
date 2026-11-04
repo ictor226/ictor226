@@ -18,15 +18,60 @@
 
 ## 🦇 Sobre mim
 
-Sou **Técnico em Tecnologia da Informação** e estudante de **Bacharelado em Ciência da Computação** na Universidade Anhembi Morumbi, com foco em construir minha carreira como **Desenvolvedor Back-end C#/.NET**.
+Sobre mim
 
-Tenho interesse em desenvolvimento de APIs REST, regras de negócio, integração com bancos de dados e construção de aplicações bem estruturadas. Venho aprimorando meus conhecimentos em **C#, .NET, ASP.NET Core, SQL e MySQL** por meio dos estudos acadêmicos, cursos e projetos práticos publicados no GitHub.
+Sou Desenvolvedor Back-end com foco no ecossistema C# e .NET, com experiência na área de Tecnologia da Informação, suporte técnico, infraestrutura e sistemas corporativos.
 
-Minha experiência profissional em ambientes corporativos me proporcionou uma visão prática sobre sistemas, infraestrutura, resolução de problemas e necessidades dos usuários. O contato com o ERP **TOTVS Protheus** também contribuiu para ampliar minha compreensão sobre processos empresariais e regras de negócio.
+Tenho conhecimentos em desenvolvimento de APIs REST com C# e ASP.NET Core, integração entre sistemas, operações HTTP, bancos de dados relacionais e desenvolvimento de aplicações.
 
-Busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos em arquitetura de software, boas práticas de programação, APIs e bancos de dados. Quero transformar essa evolução em soluções eficientes, seguras e de fácil manutenção.
+Desenvolvimento Back-end
 
-**Objetivo profissional:** conquistar uma oportunidade como **Desenvolvedor Back-end Júnior C#/.NET ou Estagiário em Desenvolvimento de Software**, contribuindo com a equipe, adquirindo experiência em projetos reais e crescendo profissionalmente na área de desenvolvimento.
+• C#, .NET e ASP.NET Core
+• Desenvolvimento e integração de APIs REST
+• Entity Framework Core
+• Programação Orientada a Objetos (POO)
+• Arquitetura de aplicações
+
+Banco de Dados
+
+• SQL, MySQL e PostgreSQL
+• Modelagem de dados
+• Consultas SQL
+
+Mensageria e Engenharia de Dados
+
+• Apache Kafka e Confluent Cloud
+• Debezium e Change Data Capture (CDC)
+• Apache Flink e Flink SQL
+• Apache Iceberg
+• Processamento de dados em tempo real
+
+Ferramentas e Infraestrutura
+
+• Git e GitHub
+• Linux e Windows Server
+• Docker
+• Computação em nuvem
+
+Formação e Experiência
+
+Atualmente, atuo como Analista de TI na SKA Automação de Engenharias e curso Ciência da Computação pela Universidade Anhembi Morumbi (UAM). Também sou Técnico em Informática formado pelo Senac.
+
+Projetos e Experiência Prática
+
+Entre meus projetos, destaco o desenvolvimento de um pipeline de dados em tempo real, utilizando PostgreSQL, Debezium, Apache Kafka, Flink SQL e Apache Iceberg.
+
+O projeto envolve:
+
+• Captura de alterações em bancos de dados (CDC)
+• Processamento e distribuição de eventos em tempo real
+• Evolução e gerenciamento de schemas
+• Processamento de streams com Flink SQL
+• Implementação de regras para detecção de transações suspeitas
+
+Objetivo Profissional
+
+Meu objetivo é evoluir continuamente como Desenvolvedor Back-end, contribuindo para a construção de APIs, sistemas escaláveis, integrações entre aplicações e soluções de software eficientes e modernas.
 
 ---
 
