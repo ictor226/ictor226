@@ -20,7 +20,7 @@
 
 Sobre mim
 
-Sou Desenvolvedor Back-end com foco no ecossistema C# e .NET, com experiência na área de Tecnologia da Informação, suporte técnico, infraestrutura e sistemas corporativos.
+Sou Desenvolvedor Back-end & Full-stack com foco no ecossistema C# e .NET, com experiência na área de Tecnologia da Informação, suporte técnico, infraestrutura e sistemas corporativos.
 
 Tenho conhecimentos em desenvolvimento de APIs REST com C# e ASP.NET Core, integração entre sistemas, operações HTTP, bancos de dados relacionais e desenvolvimento de aplicações.
 
