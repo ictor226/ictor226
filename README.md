@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=FFD700)](https://www.linkedin.com/in/victor-huggo-2993a4280)
 [![E-mail](https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=FFD700)](mailto:huggoV226@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/ictor226)
-[![Americana/SP](https://img.shields.io/badge/Americana%2FSP-0d1117?style=for-the-badge&logo=googlemaps&logoColor=FFD700)](https://github.com/ictor226)
+[![São Paulo/SP](https://img.shields.io/badge/Americana%2FSP-0d1117?style=for-the-badge&logo=googlemaps&logoColor=FFD700)](https://github.com/ictor226)
 
 </div>
 
